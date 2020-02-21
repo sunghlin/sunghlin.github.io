@@ -33,7 +33,7 @@ Here is the list of my publications.
 ## Conference Paper
 1. _Sung-Han Lin_, Marco Paolieri, Cheng-Fu Chou, Leana Golubchik, <br/>__A Model-based Approach to Streamlining Distributed Training for Asynchronous SGD__,<br/> IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), 2018
 
-    [publisher link (DOI)](https://ieeexplore.ieee.org/abstract/document/8526895){:.button.button--primary.button--rounded} [`pdf`{:.info}](http://www.mscs.mu.edu/~mascots/Papers/34.pdf) <a href="#paper5">`bibtex`</a>{:.warning}
+    [publisher link (DOI)](https://ieeexplore.ieee.org/abstract/document/8526895){:.button.button--primary.button--rounded} [pdf](http://www.mscs.mu.edu/~mascots/Papers/34.pdf){:.button.button--success.button--rounded} [bibtex](#paper5){:.button.button--secondary.button--rounded}
     <pre class="expando" id="paper5">
     @inproceedings{lin2018model,
         title={A model-based approach to streamlining distributed training for asynchronous SGD},
@@ -46,7 +46,7 @@ Here is the list of my publications.
       
 1. _Sung-Han Lin_, Ranjan Pal, Marco Paolieri, Leana Golubchik, <br/>__Performance Driven Resource Sharing Markets for the Small Cloud__,<br/> IEEE International Conference on Distributed Computing Systems (ICDCS), 2017
 
-    [publisher link (DOI)](http://ieeexplore.ieee.org/document/7979971/){:.button.button--primary.button--rounded} <a href="#paper4">`bibtex`</a>{:.warning}
+    [publisher link (DOI)](http://ieeexplore.ieee.org/document/7979971/){:.button.button--primary.button--rounded} [bibtex](#paper4){:.button.button--secondary.button--rounded}
     <pre class="expando" id="paper4">
     @inproceedings{lin2017performance,
         title={Performance driven resource sharing markets for the small cloud},
@@ -59,7 +59,7 @@ Here is the list of my publications.
     
 1. _Sung-Han Lin_, Ranjan Pal, Bo-Chun Wang, Leana Golubchik, <br/>__Sustaining Ad-Driven P2P Streaming Ecosystems A Market-Based Approach__,<br/> IEEE/ACM International Symposium on Quality of Service (IWQoS), Jun., 2015
 
-    [publisher link (DOI)](http://ieeexplore.ieee.org/document/7404722/){:.button.button--primary.button--rounded} <a href="#paper3">`bibtex`</a>{:.warning}
+    [publisher link (DOI)](http://ieeexplore.ieee.org/document/7404722/){:.button.button--primary.button--rounded} [bibtex](#paper3){:.button.button--secondary.button--rounded}
     <pre class="expando" id="paper3">
     @inproceedings{lin2015sustaining,
         title={Sustaining Ad-driven P2P streaming ecosystems: A market-based approach},
@@ -72,7 +72,7 @@ Here is the list of my publications.
     
 1. _Sung-Han Lin_, Junn-Yen Hu, Cheng-Fu Chou, Ing-Chau Chang, Chien-Chun Hung,<br/> __A Novel Social Cluster-based P2P Framework for Integrating VANETs with the Internet__,<br/> IEEE Wireless Communication and Networking Conference (WCNC), Apr., 2009
     
-    [publisher link (DOI)](http://ieeexplore.ieee.org/document/4917531/){:.button.button--primary.button--rounded} <a href="#paper2">`bibtex`</a>{:.warning}
+    [publisher link (DOI)](http://ieeexplore.ieee.org/document/4917531/){:.button.button--primary.button--rounded} [bibtex](#paper2){:.button.button--secondary.button--rounded}
     <pre class="expando" id="paper2">
     @inproceedings{lin2009novel,
         title={A novel social cluster-based p2p framework for integrating vanets with the internet},
@@ -85,7 +85,7 @@ Here is the list of my publications.
     
 1. Ching-Ju Lin, _Sung-Han Lin_, Cheng-Fu Chou,<br/> __Performance Study of Optimal Routing and Channel Assignment in Wireless Mesh Networks__,<br/> IEEE Global Communications Conference (GLOBECOM), 2007
     
-    [publisher link (DOI)](http://ieeexplore.ieee.org/document/4411824/){:.button.button--primary.button--rounded} <a href="#paper1">`bibtex`</a>{:.warning}
+    [publisher link (DOI)](http://ieeexplore.ieee.org/document/4411824/){:.button.button--primary.button--rounded} [bibtex](#paper1){:.button.button--secondary.button--rounded}
     <pre class="expando" id="paper1">
     @inproceedings{lin2007performance,
         title={Performance study of optimal routing and channel assignment in wireless mesh networks},
@@ -99,7 +99,7 @@ Here is the list of my publications.
 ## Journal
 1. _Sung-Han Lin_, Ranjan Pal, Bo-Chun Wang, Leana Golubchik,<br/> __On Market-Driven Hybrid-P2P Video Streaming__,<br/> IEEE Transactions on Multimedia, Issue Date: May.2017, Volume: 19, Issue: 5, pages: 1-15
     
-    [publisher link (DOI)](http://ieeexplore.ieee.org/abstract/document/7797208/){:.button.button--primary.button--rounded} <a href="#journal1">`bibtex`</a>{:.warning}
+    [publisher link (DOI)](http://ieeexplore.ieee.org/abstract/document/7797208/){:.button.button--primary.button--rounded} [bibtex](#journal1){:.button.button--secondary.button--rounded}
     <pre class="expando" id="journal1">
     @article{lin2017market,
         title={On Market-Driven Hybrid-P2P Video Streaming},
@@ -115,7 +115,7 @@ Here is the list of my publications.
 ## Arxiv
 1. Ranjan Pal, _Sung-Han Lin_, Leana Golubchik,<br/> __The Cloudlet Bazaar Dynamic Markets for the Small Cloud__,<br/> arXiv preprint arXiv:1704.00845, 2017
     
-    [`pdf`{:.info}](https://arxiv.org/pdf/1704.00845) <a href="#arxiv2">`bibtex`</a>{:.warning}
+    [pdf](https://arxiv.org/pdf/1704.00845){:.button.button--success.button--rounded} [bibtex](#arxiv2){:.button.button--secondary.button--rounded}
     <pre class="expando" id="arxiv2">
     @article{pal2017cloudlet,
         title={The Cloudlet Bazaar Dynamic Markets for the Small Cloud},
@@ -126,7 +126,7 @@ Here is the list of my publications.
     
 1. _Sung-Han Lin_, Ranjan Pal, Marco Paolieri, Leana Golubchik,<br/> __SC-Share: Performance Driven Resource Sharing Markets for the Small Cloud__,<br/> arXiv preprint arXiv:1703.10318, 2017
     
-    [`pdf`{:.info}](https://arxiv.org/pdf/1703.10318) <a href="#arxiv1">`bibtex`</a>{:.warning}
+    [pdf](https://arxiv.org/pdf/1703.10318){:.button.button--success.button--rounded} [bibtex](#arxiv1){:.button.button--secondary.button--rounded}
     <pre class="expando" id="arxiv1">
     @article{lin2017sc,
         title={SC-Share: Performance driven resource sharing markets for the small cloud},
