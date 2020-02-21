@@ -32,7 +32,7 @@ Here is the list of my publications.
 
 ## Conference Paper
 1. _Sung-Han Lin_, Marco Paolieri, Cheng-Fu Chou, Leana Golubchik, <br/>__A Model-based Approach to Streamlining Distributed Training for Asynchronous SGD__,<br/> IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), 2018
-    [publisher link (DOI)](https://ieeexplore.ieee.org/abstract/document/8526895){:.success} [pdf](http://www.mscs.mu.edu/~mascots/Papers/34.pdf){:.info} <a href="#paper5">bibtex</a>{:.warning}
+    `[publisher link (DOI)](https://ieeexplore.ieee.org/abstract/document/8526895)`{:.success} `[pdf](http://www.mscs.mu.edu/~mascots/Papers/34.pdf)`{:.info} <a href="#paper5">`bibtex`</a>{:.warning}
     <pre class="expando" id="paper5">
     @inproceedings{lin2018model,
         title={A model-based approach to streamlining distributed training for asynchronous SGD},
