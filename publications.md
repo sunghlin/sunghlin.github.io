@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-## Conference Paper ##
+## Conference Paper
 1. _Sung-Han Lin_, Marco Paolieri, Cheng-Fu Chou, Leana Golubchik, <br/>__A Model-based Approach to Streamlining Distributed Training for Asynchronous SGD__,<br/> IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), 2018
     - <span class="link">[publisher link (DOI)](https://ieeexplore.ieee.org/abstract/document/8526895)</span>
     - <span class="pdf">[pdf](http://www.mscs.mu.edu/~mascots/Papers/34.pdf)</span>
@@ -93,7 +93,7 @@ key: page-about
         organization={IEEE}
     }</pre>
 
-## Journal ##
+## Journal
 1. _Sung-Han Lin_, Ranjan Pal, Bo-Chun Wang, Leana Golubchik,<br/> __On Market-Driven Hybrid-P2P Video Streaming__,<br/> IEEE Transactions on Multimedia, Issue Date: May.2017, Volume: 19, Issue: 5, pages: 1-15
     - <span class="link">[publisher link (DOI)](http://ieeexplore.ieee.org/abstract/document/7797208/)</span>
     - <span class="bibtex"><a href="#journal1">bibtex</a></span>
@@ -109,7 +109,7 @@ key: page-about
         publisher={IEEE}
     }</pre>
 
-## Arxiv ##
+## Arxiv
 1. Ranjan Pal, _Sung-Han Lin_, Leana Golubchik,<br/> __The Cloudlet Bazaar Dynamic Markets for the Small Cloud__,<br/> arXiv preprint arXiv:1704.00845, 2017
     - <span class="pdf">[pdf](https://arxiv.org/pdf/1704.00845)</span>
     - <span class="bibtex"><a href="#arxiv2">bibtex</a></span>
@@ -132,6 +132,6 @@ key: page-about
         year={2017}
     }</pre>
 
-## Thesis/Dissertation ##
+## Thesis/Dissertation
 1. _Sung-Han Lin_, __Distributed Resource Management for QOS-Aware Service Provision__, Ph.D. Dissertation
 1. _Sung-Han Lin_, __On the Design of Vehicular P2P Scheme over Ad Hoc Network and the Internet__, Master Thesis
