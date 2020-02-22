@@ -97,7 +97,7 @@ Here is the list of my publications.
     }</pre>
 
 ## Journal
-1. Ranjan Pal, Aditya Ahuja, _Sung-Han Lin_, Abhishek Kumar, Leana Golubchik, Nachikethas A Jagadeesan, <br/>__On the Economic Sustainability of Cloud Sharing Systems Are Dynamic Single Resource Sharing Markets Stable?__, <br/> ACM SIGMETRICS Performance Evaluation Review
+1. Ranjan Pal, Aditya Ahuja, _Sung-Han Lin_, Abhishek Kumar, Leana Golubchik, Nachikethas A Jagadeesan, <br/>__On the Economic Sustainability of Cloud Sharing Systems Are Dynamic Single Resource Sharing Markets Stable?__, <br/> ACM SIGMETRICS Performance Evaluation Review, 2019
 
     [publisher link (DOI)](https://dl.acm.org/doi/abs/10.1145/3372315.3372317){:.button.button--primary.button--rounded} [bibtex](#journal3){:.button.button--secondary.button--rounded}
     <pre class="expando" id="journal3">
