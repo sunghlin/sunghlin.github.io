@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-{% include aboutme.html %}
+{%- include aboutme.html -%}
 
 ## Work Experience
 - _Performance Analyst_, __NetApp__, Oct 2017 - Present
