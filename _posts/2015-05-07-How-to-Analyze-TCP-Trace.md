@@ -25,7 +25,7 @@ $ sudo tcpdump
 ```
 
 This is output showing on the screen.
-![]({{ site.url }}/assets/images/tcpdump/tcpdump_trace.png)
+![](/assets/images/tcpdump/tcpdump_trace.png)
 
 Well, interpreting the output from tcpdump is not my goal, so I just skip this step and talk about options. There are some options I usually use:
 
@@ -76,7 +76,7 @@ After we have the log, we are ready to analyze the trace. Tcptrace allows us to 
 	$ tcptrace capture_file
 
 This is output showing on the screen.
-![]({{ site.url }}/assets/images/tcpdump/tcptrace_links.png)
+![](/assets/images/tcpdump/tcptrace_links.png)
 
 - Show the detail of all links shown above
 ^
@@ -87,7 +87,7 @@ This is output showing on the screen.
 	$ tcptrace -l -o4 capture_file
 
 This is output showing on the screen.
-![]({{ site.url }}/assets/images/tcpdump/tcptrace_link_4.png)
+![](/assets/images/tcpdump/tcptrace_link_4.png)
 
 Tcptrace can also help us to convert those trace to visual figures. However, it can only generate the plot file. We have to use Xplot.org (will introduced later) to view it. There are five kinds of figures: Time Sequence Graph (-S), Throughput Graph (-T), RTT Graph (-R), Outstanding Data Graph (-N), and Segment Size Graph (-F).
 
@@ -108,6 +108,6 @@ Xplot.org is an extended version for original Xplot, which was released in the l
 	$ xplot.org g2h_tsg.xpl
 
 This is output figure.
-![]({{ site.url }}/assets/images/tcpdump/tcptrace_tsg.png)
+![](/assets/images/tcpdump/tcptrace_tsg.png)
 
 (To read the figure, please check the [manual](http://www.tcptrace.org/tcptrace-manual/manual/index.html) of tcptrace.)
