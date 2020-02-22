@@ -1,3 +1,13 @@
 /* start custom scss snippet */
 
+/* Expando Bits */
+
+.expando {
+    display: none;
+}
+  
+.expando:target {
+    display: block;
+}
+
 /* end custom scss snippet */
