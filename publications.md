@@ -97,6 +97,33 @@ Here is the list of my publications.
     }</pre>
 
 ## Journal
+1. Ranjan Pal, Aditya Ahuja, _Sung-Han Lin_, Abhishek Kumar, Leana Golubchik, Nachikethas A Jagadeesan, <br/>__On the Economic Sustainability of Cloud Sharing Systems Are Dynamic Single Resource Sharing Markets Stable?__, <br/> ACM SIGMETRICS Performance Evaluation Review
+
+    [publisher link (DOI)](https://dl.acm.org/doi/abs/10.1145/3372315.3372317){:.button.button--primary.button--rounded} [bibtex](#journal3){:.button.button--secondary.button--rounded}
+    <pre class="expando" id="journal3">
+    @article{pal2019economic,
+        title={On the Economic Sustainability of Cloud Sharing Systems Are Dynamic Single Resource Sharing Markets Stable?},
+        author={Pal, Ranjan and Ahuja, Aditya and Lin, Sung-Han and Kumar, Abhishek and Golubchik, Leana and Jagadeesan, Nachikethas A},
+        journal={ACM SIGMETRICS Performance Evaluation Review},
+        volume={46},
+        number={4},
+        pages={2--10},
+        year={2019},
+        publisher={ACM New York, NY, USA}
+    }</pre> 
+
+1. Ranjan Pal, Aditya Ahuja, _Sung-Han Lin_, Nachikethas Jagadeesan, Abhishek Kumar, Leana Golubchik, <br/>__Are Federated Cloud Sharing Systems Sustainable?: On Dynamic Sharing Markets and Their Stability__, <br/> IEEE Transactions on Sustainable Computing, 2019
+
+    [publisher link (DOI)](https://ieeexplore.ieee.org/abstract/document/8910459){:.button.button--primary.button--rounded} [bibtex](#journal2){:.button.button--secondary.button--rounded}
+    <pre class="expando" id="journal2">
+    @article{pal2019federated,
+        title={Are Federated Cloud Sharing Systems Sustainable?: On Dynamic Sharing Markets and Their Stability},
+        author={Pal, Ranjan and Ahuja, Aditya and Lin, Sung-Han and Jagadeesan, Nachikethas and Kumar, Abhishek and Golubchik, Leana},
+        journal={IEEE Transactions on Sustainable Computing},
+        year={2019},
+        publisher={IEEE}
+    }</pre> 
+
 1. _Sung-Han Lin_, Ranjan Pal, Bo-Chun Wang, Leana Golubchik,<br/> __On Market-Driven Hybrid-P2P Video Streaming__,<br/> IEEE Transactions on Multimedia, Issue Date: May.2017, Volume: 19, Issue: 5, pages: 1-15
     
     [publisher link (DOI)](http://ieeexplore.ieee.org/abstract/document/7797208/){:.button.button--primary.button--rounded} [bibtex](#journal1){:.button.button--secondary.button--rounded}
