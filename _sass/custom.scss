@@ -3,11 +3,11 @@
 /* Expando Bits */
 
 .expando {
-    display: none;
-}
-  
-.expando:target {
+  display: none;
+
+  &:target {
     display: block;
+  }
 }
 
 /* end custom scss snippet */
