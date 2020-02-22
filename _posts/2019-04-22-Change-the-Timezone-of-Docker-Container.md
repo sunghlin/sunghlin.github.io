@@ -1,6 +1,6 @@
 ---
 title:  Change the Timezone of Docker Container
-tags: docker, timezone, container
+tags: docker timezone container
 status: published
 ---
 

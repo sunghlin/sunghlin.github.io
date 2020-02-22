@@ -1,6 +1,6 @@
 ---
 title:  How to analyze TCP trace
-tags: tcp, tcpdump, tcptrace
+tags: tcp tcpdump tcptrace
 status: published 
 ---
 
