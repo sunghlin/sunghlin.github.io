@@ -1,6 +1,7 @@
 ---
 title:  Poor Man Profiler - knowing CPU usage
 tags: profiler
+key: post-poor-man-profiler
 status: published
 ---
 

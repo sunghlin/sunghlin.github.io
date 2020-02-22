@@ -1,6 +1,7 @@
 ---
 title:  How to analyze TCP trace
 tags: tcp tcpdump tcptrace
+key: post-how-to-tcpump
 status: published 
 ---
 
