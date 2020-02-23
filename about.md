@@ -37,4 +37,4 @@ titles:
 - __Research Assistant (Adviser: Prof. Zhao-Ming Gao)__, _Department of Foreign Languages and Literatures, National Taiwan University_ <br/> September 2006 - September 2007
 
 ## Talk
-- __Performance Considerations for AI and ML Deployments__, NetApp INSIGHT Las Vegas, 2019
+- __Performance Considerations for AI and ML Deployments__, _NetApp INSIGHT Las Vegas_, 2019
