@@ -32,12 +32,16 @@ aside:
 
 ## Large-Scale Machine Learning
 
-### ONTAP AI <span class="default-span place-netapp">NetApp</span>
+### ONTAP AI 
+
+`NetApp`{:.info}
 
 Built on a verified architecture that combines NVIDIA DGX-1 supercomputers, NetApp AFF storage, and Cisco networking supercharges your AI/DL environments.
 - Scalable AI Infrastructure: Designing for Real-World Deep Learning Use Cases [[Technical Report]](https://www.netapp.com/us/media/nva-1121-design.pdf)
 
-### Large-scale Deep Learning in Shared Clusters <span class="default-span place-usc">USC - Research</span> <span class="default-span place-netapp">NetApp</span>
+### Large-scale Deep Learning in Shared Clusters
+
+`Research`{:.success} `USC`{:.info} `NetApp`{:.info}
 
 <span class="cite">Paper is published in IEEE MASCOTS 2018, with title __A Model-based Approach to Streamlining Distributed Training for Asynchronous SGD__</span>
 
@@ -47,7 +51,9 @@ We address two important problems for the application of this strategy to large-
 
 ## Cloud Computing
 
-### Resource Sharing for the Small Cloud <span class="default-span place-usc">USC - Research</span>
+### Resource Sharing for the Small Cloud
+
+`Research`{:.success} `USC`{:.info}
 
 <span class="cite">Paper is published in IEEE ICDCS 2017, with title __Performance Driven Resource Sharing Markets for the Small Cloud__</span>
 
@@ -55,13 +61,18 @@ Approximated an exponential growth stochastic model via TransientAnalysis to est
 
 ## Distributed System
 
-### Improve the performance of SQL-MR Execution Engine <span class="default-span place-teradata">Teradata - Intern</span>
+### Improve the performance of SQL-MR Execution Engine 
+
+`Intern`{:.success} `Teradata`{:.info}
 
 I profiled the performance of SQL-MapReduce Execution Engine and re-designed the mechanism to reduce the data transmission and I/O time between user defined functions and databases. 
 1. Aggregating the output: Instead of sending result row by row in the original design, I caches rows and send it once to reduce the I/O time. This improves the performance by at least 20%. 
 2. Eager sending: Sending cached data immediately if it is available. This improves the performance by 10%. 
 
-### MediaWall Framework <span class="default-span place-fxpal"> FXPAL - Intern</span>
+### MediaWall Framework 
+
+`Intern`{:.success} `FXPAL`{:.info}
+
 I designed and developed media wall framework which instantiates and controls virtual machines to enable diversified screen presentations that are not limited by pre-installed projectors. Since this system works in a network, I built a centralized system to manage network resources and handle interactions between remote machines and services to enhance the performance. Moreover, I developed APIs to provide programmatic access from web-enabled platforms. To provide access interface, I programmed Web-based Graphical User Interfaces to enable presenters to manage projected screens on walls
 
 <!---
@@ -75,16 +86,24 @@ Developed and simulated probability models to correctly analyse the performance 
 --->
 ## Networking / Peer-to-Peer (P2P)
 
-### Hybrid P2P Video Streaming <span class="default-span place-usc">USC - Research</span>
+### Hybrid P2P Video Streaming
+
+`Research`{:.success} `USC`{:.info}
 
 <span class="cite">Paper is published in IEEE/ACM IWQoS 2015, with title __Sustaining Ad-Driven P2P Streaming Ecosystems A Market-Based Approach__, following up a journal in IEEE Transactions on Multimedia with a title __On Market-Driven Hybrid-P2P Video Streaming__</span>
 
 Re-designed sharing mechanisms to eliminate the problem of video playback pausesby up to 80% while providing sufficiently high quality of videos to peers; developed market-based game-theoretic modelthat uses advertisements as an incentive to satisfy all the market stakeholders.
 
-### Implemented a distributed large-scale Digital Signage system <span class="default-span place-ntu">NTU</span>
+### Implemented a distributed large-scale Digital Signage system 
+
+`Research`{:.success} `NTU`{:.info}
+
 Implemented a distributed large-scale Digital Signage system. Developed partial storage systems for video contents and advertisements by combining Content Distribution Network and Peer-to-Peer technologies
 
-### Implemented a real P2P IPTV system <span class="default-span place-ntu">NTU</span>
+### Implemented a real P2P IPTV system 
+
+`Research`{:.success} `NTU`{:.info}
+
 Coded P2P Internet Protocol Television(IPTV) systems supporting channel browsing in Windows systems. Explored and measured effect of parameter settings for different network capability environments.
 
 <!---
