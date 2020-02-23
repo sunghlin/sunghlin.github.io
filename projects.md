@@ -26,6 +26,8 @@ titles:
 #key: page-about
 ---
 
+# Projects
+
 ## Large-Scale Machine Learning
 
 ### ONTAP AI <span class="default-span place-netapp">NetApp</span>

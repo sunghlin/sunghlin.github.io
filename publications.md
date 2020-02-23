@@ -28,7 +28,7 @@ aside:
   toc: true
 ---
 
-Here is the list of my publications.
+# Publications
 
 ## Conference Paper
 1. _Sung-Han Lin_, Marco Paolieri, Cheng-Fu Chou, Leana Golubchik, <br/>__A Model-based Approach to Streamlining Distributed Training for Asynchronous SGD__,<br/> IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), 2018
