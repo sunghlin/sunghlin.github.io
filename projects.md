@@ -43,12 +43,12 @@ Built on a verified architecture that combines NVIDIA DGX-1 supercomputers, NetA
 
 `Research`{:.success} `USC`{:.info} `NetApp`{:.info}
 
-Paper is published in IEEE MASCOTS 2018, with title __A Model-based Approach to Streamlining Distributed Training for Asynchronous SGD__
-{:.warning}
-
 We address two important problems for the application of this strategy to large-scale clusters and multiple, heterogeneous jobs. 
 1. We propose and validate a queueing model to estimate the throughput of a training job as a function of the number of nodes assigned to the job; this model targets asynchronous Stochastic Gradient Descent (SGD), and requires only data from quick, two-node profiling. 
 2. Throughput estimations are then used to explore several classes of scheduling heuristics to reduce response time in a scenario where heterogeneous jobs are continuously submitted to a large-scale cluster. These scheduling algorithms dynamically select which jobs to run and how many nodes to assign to each job, based on different trade-offs between service time reduction and efficiency (e.g., speedup per additional node). Heuristics are evaluated through extensive simulations of realistic DNN workloads, also investigating the effects of early termination, a common scenario for DNN training jobs.
+
+Paper is published in IEEE MASCOTS 2018, with title __A Model-based Approach to Streamlining Distributed Training for Asynchronous SGD__
+{:.warning}
 
 ## Cloud Computing
 
@@ -56,14 +56,14 @@ We address two important problems for the application of this strategy to large-
 
 `Research`{:.success} `USC`{:.info}
 
+Approximated an exponential growth stochastic model via TransientAnalysis to estimate the number of virtual machines exchanged within the cloud federation; developed market-basedgame-theoretic model that converges to efficient virtual machine sharing decisions at market equilibrium
+
 Paper is published in IEEE ICDCS 2017, with title __Performance Driven Resource Sharing Markets for the Small Cloud__
 {:.warning}
 
-Approximated an exponential growth stochastic model via TransientAnalysis to estimate the number of virtual machines exchanged within the cloud federation; developed market-basedgame-theoretic model that converges to efficient virtual machine sharing decisions at market equilibrium
-
 ## Distributed System
 
-### Improve the performance of SQL-MR Execution Engine 
+### Improving SQL-MR Execution Engine 
 
 `Intern`{:.success} `Teradata`{:.info}
 
@@ -92,16 +92,27 @@ Developed and simulated probability models to correctly analyse the performance 
 
 `Research`{:.success} `USC`{:.info}
 
+Re-designed sharing mechanisms to eliminate the problem of video playback pausesby up to 80% while providing sufficiently high quality of videos to peers; developed market-based game-theoretic modelthat uses advertisements as an incentive to satisfy all the market stakeholders.
+
 Paper is published in IEEE/ACM IWQoS 2015, with title __Sustaining Ad-Driven P2P Streaming Ecosystems A Market-Based Approach__, following up a journal in IEEE Transactions on Multimedia with a title __On Market-Driven Hybrid-P2P Video Streaming__
 {:.warning}
 
-Re-designed sharing mechanisms to eliminate the problem of video playback pausesby up to 80% while providing sufficiently high quality of videos to peers; developed market-based game-theoretic modelthat uses advertisements as an incentive to satisfy all the market stakeholders.
-
+<!---
 ### Implemented a distributed large-scale Digital Signage system 
 
 `Research`{:.success} `NTU`{:.info}
 
 Implemented a distributed large-scale Digital Signage system. Developed partial storage systems for video contents and advertisements by combining Content Distribution Network and Peer-to-Peer technologies
+--->
+
+### P2P framework for Vehicular Ad Hoc Networks
+
+`Research`{:.success} `NTU`{:.info}
+
+Due to the vehicle's movement and inherent characteristics of wireless channel, how to discover and retrieve the required contents has become a challenging issue in a hybrid network including vehicular ad hoc networks (VANETs) and the Internet. In this paper, we propose a social cluster-based P2P framework that estimates similarity and connection condition among peers to provide mobile peers efficient resource discovery and retrieval. The idea of our framework is to consider a mobile peer's preference and its connectivity such as the lifetime or the bandwidth for a wireless link. Specifically, there are two major components in our framework. First, a social cluster-based overlay structure and lifetime-aware flooding scheme enable mobile peers to discover resource through the Internet and VANETs. Second, a connectivity-aware retrieval scheme considers connection lifetime and bandwidth schedules and determines how to retrieve resource from available peers. The simulation results show that, compared with other existing P2P schemes, our social cluster-based P2P framework is able to quickly locate more available peers holding the required contents and achieve a higher retrieval ratio.
+
+Paper is published in IEEE WCNC 2009, with title __A Novel Social Cluster-Based P2P Framework for Integrating VANETs with the Internet__
+{:.warning}
 
 ### Implemented a real P2P IPTV system 
 
