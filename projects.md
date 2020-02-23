@@ -24,6 +24,8 @@ titles:
       fr-LU   : *FR
   # @end locale config
 show_title: false
+aside:
+  toc: true
 #key: page-about
 ---
 
