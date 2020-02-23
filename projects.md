@@ -23,9 +23,11 @@ titles:
       fr-FR   : *FR
       fr-LU   : *FR
   # @end locale config
+show_title: false
 #key: page-about
 ---
 
+# Projects
 
 ## Large-Scale Machine Learning
 
