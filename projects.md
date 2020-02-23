@@ -23,13 +23,12 @@ titles:
       fr-FR   : *FR
       fr-LU   : *FR
   # @end locale config
-show_title: false
+show_title: true
+title: Projects
 aside:
   toc: true
 #key: page-about
 ---
-
-# Projects
 
 ## Large-Scale Machine Learning
 
