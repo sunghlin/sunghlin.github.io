@@ -29,12 +29,12 @@ titles:
 {%- include aboutme.html -%}
 
 ## Work Experience
-- _Performance Analyst_, __NetApp__, Oct 2017 - Present
-- _Teaching Assistant_, __CSci 402 Operating Systems__, Fall 2012 - Summer 2017
-- _Intern_, __Teradata Labs__, June 2014 - Aug 2014
-- _Intern_, __Fuji Xerox Palo Alto (FXPAL) Laboratory__, May 2013 - August 2013
-- _Research Assistant (Adviser: Prof. Cheng-Fu Chou)_, __Communications and Multimedia Laboratory (CMLab), Department of Computer Science and Information Engineering, National Taiwan University__, October 2009 - July 2010
-- _Research Assistant (Adviser: Prof. Zhao-Ming Gao)_, __Department of Foreign Languages and Literatures, National Taiwan University__, September 2006 - September 2007
+- __Performance Analyst__, _NetApp_ <br/> October 2017 - Present
+- __Teaching Assistant__, _CSci 402 - Operating Systems, Department of Computer Science, University of Southern California_ <br/> Fall 2012 - Summer 2017 
+- __Intern__, _Teradata Labs_ <br/> June 2014 - August 2014
+- __Intern__, _Fuji Xerox Palo Alto (FXPAL) Laboratory_ <br/> May 2013 - August 2013
+- __Research Assistant (Adviser: Prof. Cheng-Fu Chou)__, _Communications and Multimedia Laboratory (CMLab), Department of Computer Science and Information Engineering, National Taiwan University_ <br/> October 2009 - July 2010
+- __Research Assistant (Adviser: Prof. Zhao-Ming Gao)__, _Department of Foreign Languages and Literatures, National Taiwan University_ <br/> September 2006 - September 2007
 
 ## Project Experience
 
