@@ -43,7 +43,8 @@ Built on a verified architecture that combines NVIDIA DGX-1 supercomputers, NetA
 
 `Research`{:.success} `USC`{:.info} `NetApp`{:.info}
 
-<span class="cite">Paper is published in IEEE MASCOTS 2018, with title __A Model-based Approach to Streamlining Distributed Training for Asynchronous SGD__</span>
+Paper is published in IEEE MASCOTS 2018, with title __A Model-based Approach to Streamlining Distributed Training for Asynchronous SGD__
+{:.warning}
 
 We address two important problems for the application of this strategy to large-scale clusters and multiple, heterogeneous jobs. 
 1. We propose and validate a queueing model to estimate the throughput of a training job as a function of the number of nodes assigned to the job; this model targets asynchronous Stochastic Gradient Descent (SGD), and requires only data from quick, two-node profiling. 
@@ -55,7 +56,8 @@ We address two important problems for the application of this strategy to large-
 
 `Research`{:.success} `USC`{:.info}
 
-<span class="cite">Paper is published in IEEE ICDCS 2017, with title __Performance Driven Resource Sharing Markets for the Small Cloud__</span>
+Paper is published in IEEE ICDCS 2017, with title __Performance Driven Resource Sharing Markets for the Small Cloud__
+{:.warning}
 
 Approximated an exponential growth stochastic model via TransientAnalysis to estimate the number of virtual machines exchanged within the cloud federation; developed market-basedgame-theoretic model that converges to efficient virtual machine sharing decisions at market equilibrium
 
@@ -90,7 +92,8 @@ Developed and simulated probability models to correctly analyse the performance 
 
 `Research`{:.success} `USC`{:.info}
 
-<span class="cite">Paper is published in IEEE/ACM IWQoS 2015, with title __Sustaining Ad-Driven P2P Streaming Ecosystems A Market-Based Approach__, following up a journal in IEEE Transactions on Multimedia with a title __On Market-Driven Hybrid-P2P Video Streaming__</span>
+Paper is published in IEEE/ACM IWQoS 2015, with title __Sustaining Ad-Driven P2P Streaming Ecosystems A Market-Based Approach__, following up a journal in IEEE Transactions on Multimedia with a title __On Market-Driven Hybrid-P2P Video Streaming__
+{:.warning}
 
 Re-designed sharing mechanisms to eliminate the problem of video playback pausesby up to 80% while providing sufficiently high quality of videos to peers; developed market-based game-theoretic modelthat uses advertisements as an incentive to satisfy all the market stakeholders.
 
