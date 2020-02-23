@@ -24,7 +24,8 @@ titles:
       fr-LU   : *FR
   # @end locale config
 #key: page-publications
-show_title: false
+show_title: true
+title: Publications
 aside:
   toc: true
 ---
