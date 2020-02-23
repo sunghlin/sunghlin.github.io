@@ -1,7 +1,5 @@
 ---
 layout: article
-
-#key: page-publications
 aside:
   toc: true
 ---

@@ -1,6 +1,5 @@
 ---
 layout: article
-
 #key: page-about
 ---
 
