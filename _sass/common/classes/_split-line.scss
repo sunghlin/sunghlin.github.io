@@ -22,7 +22,7 @@
     border-left-width: $width;
   }
   @if $direction == middle {
-	border-bottom-width: $width;
+	border-top-width: $width;
 	padding-top: $shift;
 	margin-top: -$shift;
   }
