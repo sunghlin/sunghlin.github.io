@@ -38,7 +38,7 @@
     @include split-line(bottom);
   }
   h2+* {
-    @include split-line(middle, default, default, 1em);
+    @include split-line(middle, default, default, 1.5em);
   }
   hr {
     border: none;
