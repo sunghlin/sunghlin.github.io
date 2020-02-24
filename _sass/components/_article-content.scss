@@ -34,9 +34,11 @@
       }
     }
   }
-  h1,
-  h2 {
-    @include split-line(middle, default, default, 28px);
+  h1 {
+    @include split-line(bottom);
+  }
+  h2+* {
+    @include split-line(middle, default, default, 1em);
   }
   hr {
     border: none;
