@@ -36,7 +36,7 @@
   }
   h1,
   h2 {
-    @include split-line(bottom);
+    @include split-line(middle, default, default, 28px);
   }
   hr {
     border: none;
