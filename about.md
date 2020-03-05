@@ -38,3 +38,8 @@ titles:
 
 ## Talk
 - __Performance Considerations for AI and ML Deployments__, _NetApp INSIGHT Las Vegas_, 2019
+
+## Education
+- __Ph.D.__, [Quantitative Evaluation & Design (QED) Research Group](http://qed.usc.edu/), Computer Science, University of Southern California (USC) <br/> 2010 - 2017
+- __M.S.__, [Communication and Multimedia Laboratory (CMLab)](http://cmlab.csie.ntu.edu.tw/), Computer Sience and Information Engineering (CSIE), National Taiwan University (NTU) <br/> 2006 - 2008
+- __B.S.__, Computer Sience and Information Engineering (CSIE), National Taiwan University (NTU) <br/> 2002 - 2006
