@@ -34,14 +34,14 @@ aside:
 
 ### ONTAP AI 
 
-`NetApp`{:.info}
+`NetApp`{:.success}
 
 Built on a verified architecture that combines NVIDIA DGX-1 supercomputers, NetApp AFF storage, and Cisco networking supercharges your AI/DL environments.
 - Scalable AI Infrastructure: Designing for Real-World Deep Learning Use Cases [[Technical Report]](https://www.netapp.com/us/media/nva-1121-design.pdf)
 
 ### Large-scale Deep Learning in Shared Clusters
 
-`Research`{:.success} `USC`{:.info} `NetApp`{:.info}
+`Research`{:.error} `USC`{:.success} `NetApp`{:.success}
 
 We address two important problems for the application of this strategy to large-scale clusters and multiple, heterogeneous jobs. 
 1. We propose and validate a queueing model to estimate the throughput of a training job as a function of the number of nodes assigned to the job; this model targets asynchronous Stochastic Gradient Descent (SGD), and requires only data from quick, two-node profiling. 
@@ -54,7 +54,7 @@ Paper is published in IEEE MASCOTS 2018, with title __A Model-based Approach to 
 
 ### Resource Sharing for the Small Cloud
 
-`Research`{:.success} `USC`{:.info}
+`Research`{:.error} `USC`{:.success}
 
 Approximated an exponential growth stochastic model via TransientAnalysis to estimate the number of virtual machines exchanged within the cloud federation; developed market-basedgame-theoretic model that converges to efficient virtual machine sharing decisions at market equilibrium
 
@@ -65,7 +65,7 @@ Paper is published in IEEE ICDCS 2017, with title __Performance Driven Resource 
 
 ### Improving SQL-MR Execution Engine 
 
-`Intern`{:.success} `Teradata`{:.info}
+`Intern`{:.error} `Teradata`{:.success}
 
 I profiled the performance of SQL-MapReduce Execution Engine and re-designed the mechanism to reduce the data transmission and I/O time between user defined functions and databases. 
 1. Aggregating the output: Instead of sending result row by row in the original design, I caches rows and send it once to reduce the I/O time. This improves the performance by at least 20%. 
@@ -73,7 +73,7 @@ I profiled the performance of SQL-MapReduce Execution Engine and re-designed the
 
 ### MediaWall Framework 
 
-`Intern`{:.success} `FXPAL`{:.info}
+`Intern`{:.error} `FXPAL`{:.success}
 
 I designed and developed media wall framework which instantiates and controls virtual machines to enable diversified screen presentations that are not limited by pre-installed projectors. Since this system works in a network, I built a centralized system to manage network resources and handle interactions between remote machines and services to enhance the performance. Moreover, I developed APIs to provide programmatic access from web-enabled platforms. To provide access interface, I programmed Web-based Graphical User Interfaces to enable presenters to manage projected screens on walls
 
@@ -90,7 +90,7 @@ Developed and simulated probability models to correctly analyse the performance 
 
 ### Hybrid P2P Video Streaming
 
-`Research`{:.success} `USC`{:.info}
+`Research`{:.error} `USC`{:.success}
 
 Re-designed sharing mechanisms to eliminate the problem of video playback pausesby up to 80% while providing sufficiently high quality of videos to peers; developed market-based game-theoretic modelthat uses advertisements as an incentive to satisfy all the market stakeholders.
 
@@ -107,7 +107,7 @@ Implemented a distributed large-scale Digital Signage system. Developed partial 
 
 ### P2P framework for Vehicular Ad Hoc Networks
 
-`Research`{:.success} `NTU`{:.info}
+`Research`{:.error} `NTU`{:.success}
 
 Due to the vehicle's movement and inherent characteristics of wireless channel, how to discover and retrieve the required contents has become a challenging issue in a hybrid network including vehicular ad hoc networks (VANETs) and the Internet. In this paper, we propose a social cluster-based P2P framework that estimates similarity and connection condition among peers to provide mobile peers efficient resource discovery and retrieval. The idea of our framework is to consider a mobile peer's preference and its connectivity such as the lifetime or the bandwidth for a wireless link. Specifically, there are two major components in our framework. First, a social cluster-based overlay structure and lifetime-aware flooding scheme enable mobile peers to discover resource through the Internet and VANETs. Second, a connectivity-aware retrieval scheme considers connection lifetime and bandwidth schedules and determines how to retrieve resource from available peers. The simulation results show that, compared with other existing P2P schemes, our social cluster-based P2P framework is able to quickly locate more available peers holding the required contents and achieve a higher retrieval ratio.
 
@@ -116,7 +116,7 @@ Paper is published in IEEE WCNC 2009, with title __A Novel Social Cluster-Based 
 
 ### Implemented a real P2P IPTV system 
 
-`Research`{:.success} `NTU`{:.info}
+`Research`{:.error} `NTU`{:.success}
 
 Coded P2P Internet Protocol Television(IPTV) systems supporting channel browsing in Windows systems. Explored and measured effect of parameter settings for different network capability environments.
 
