@@ -32,13 +32,14 @@ titles:
     </div>
     <div class="item__content">
       <div class="article__content">
-        <p>Sung-Han Lin is a performance analysis engineer and data scientist in NetApp, where his primary responsibility is to analyze and improve the performance of data storage system and software. Currently, he focuses on improving the performance of large-scale Deep Learning systems via investigating the bottleneck of data pipeline and optimizing system resource utilizations. He received his Ph.D. degree from the University of Southern California (USC) in 2017. His thesis topic is optimizing resource allocations in large-scale distribued systems, where one of the applications is improving the throughput of large-scale distribued training.</p>
+        <p>Sung-Han Lin is a performance analysis engineer and data scientist in NetApp, where his primary responsibility is to analyze and improve the performance of data storage system and software. Currently, he focuses on improving the performance of large-scale Deep Learning systems via investigating the bottleneck of data pipeline and optimizing system resource utilizations. He received his Ph.D. degree from the University of Southern California (USC) in 2017. His thesis topic is optimizing resource allocations in large-scale distributed systems, where one of the applications is improving the throughput of large-scale distributed training.</p>
+        <p>sunghlin [AT] GMAIL.COM</p>
       </div>
     </div>
 </div>
 
 ## Work
-- __Memeber of Technical Staff - Performance Analyst__, _NetApp_ <br/> October 2017 - Present
+- __Member of Technical Staff - Performance Analyst__, _NetApp_ <br/> October 2017 - Present
 - __Teaching Assistant__, _CSci 402 - Operating Systems, Department of Computer Science, University of Southern California_ <br/> Fall 2012 - Summer 2017 
 - __Intern__, _Teradata Labs_ <br/> June 2014 - August 2014
 - __Intern__, _Fuji Xerox Palo Alto (FXPAL) Laboratory_ <br/> May 2013 - August 2013
@@ -51,4 +52,4 @@ titles:
 ## Education
 - __Ph.D.__, [Quantitative Evaluation & Design (QED) Research Group](http://qed.usc.edu/), Computer Science, University of Southern California (USC) <br/> 2010 - 2017
 - __M.S.__, [Communication and Multimedia Laboratory (CMLab)](http://cmlab.csie.ntu.edu.tw/), Computer Sience and Information Engineering (CSIE), National Taiwan University (NTU) <br/> 2006 - 2008
-- __B.S.__, Computer Sience and Information Engineering (CSIE), National Taiwan University (NTU) <br/> 2002 - 2006
+- __B.S.__, Computer Science and Information Engineering (CSIE), National Taiwan University (NTU) <br/> 2002 - 2006
