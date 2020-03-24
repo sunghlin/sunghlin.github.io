@@ -92,7 +92,7 @@ Developed and simulated probability models to correctly analyse the performance 
 
 `Research`{:.error} `USC`{:.success}
 
-Re-designed sharing mechanisms to eliminate the problem of video playback pausesby up to 80% while providing sufficiently high quality of videos to peers; developed market-based game-theoretic modelthat uses advertisements as an incentive to satisfy all the market stakeholders.
+Re-designed sharing mechanisms to eliminate the problem of video playback pauses by up to 80% while providing sufficiently high quality of videos to peers; developed market-based game-theoretic model that uses advertisements as an incentive to satisfy all the market stakeholders.
 
 Paper is published in IEEE/ACM IWQoS 2015, with title __Sustaining Ad-Driven P2P Streaming Ecosystems A Market-Based Approach__, following up a journal in IEEE Transactions on Multimedia with a title __On Market-Driven Hybrid-P2P Video Streaming__
 {:.warning}

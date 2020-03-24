@@ -33,12 +33,12 @@ titles:
     <div class="item__content">
       <div class="article__content">
         <p>Sung-Han Lin is a performance analysis engineer and data scientist in NetApp, where his primary responsibility is to analyze and improve the performance of data storage system and software. Currently, he focuses on improving the performance of large-scale Deep Learning systems via investigating the bottleneck of data pipeline and optimizing system resource utilizations. He received his Ph.D. degree from the University of Southern California (USC) in 2017. His thesis topic is optimizing resource allocations in large-scale distributed systems, where one of the applications is improving the throughput of large-scale distributed training.</p>
-        <p>sunghlin [AT] GMAIL.COM</p>
+        <p>Email: sunghlin [AT] gmail.com</p>
       </div>
     </div>
 </div>
 
-## Work
+## Work Experience
 - __Member of Technical Staff - Performance Analyst__, _NetApp_ <br/> October 2017 - Present
 - __Teaching Assistant__, _CSci 402 - Operating Systems, Department of Computer Science, University of Southern California_ <br/> Fall 2012 - Summer 2017 
 - __Intern__, _Teradata Labs_ <br/> June 2014 - August 2014
@@ -46,7 +46,7 @@ titles:
 - __Research Assistant (Adviser: Prof. Cheng-Fu Chou)__, _Communications and Multimedia Laboratory (CMLab), Department of Computer Science and Information Engineering, National Taiwan University_ <br/> October 2009 - July 2010
 - __Research Assistant (Adviser: Prof. Zhao-Ming Gao)__, _Department of Foreign Languages and Literatures, National Taiwan University_ <br/> September 2006 - September 2007
 
-## Talk
+## Talk Presentation
 - __Performance Considerations for AI and ML Deployments__, _NetApp INSIGHT Las Vegas_, 2019
 
 ## Education
