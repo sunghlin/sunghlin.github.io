@@ -37,9 +37,13 @@ titles:
     </div>
 </div>
 
+[Email](mailto:sunghlin@gmail.com){:.button.button--error.button--rounded} [Linkedin](https://www.linkedin.com/in/sung-han-lin-0a47869){:.button.button--success.button--rounded} [Resume](https://sunghlin.github.io/resume/index.pdf){:.button.button--info.button--rounded} 
+
+<!--
 ## Contact
 - Email: [sunghlin [AT] gmail.com](mailto:sunghlin@gmail.com)
 - Linkedin: [Sung-Han Lin@Linkedin](https://www.linkedin.com/in/sung-han-lin-0a47869)
+-->
 
 ## Work Experience
 - __Member of Technical Staff - Performance Analyst__, _NetApp_ <br/> October 2017 - Present
