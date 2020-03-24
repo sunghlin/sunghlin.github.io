@@ -38,7 +38,7 @@ titles:
 </div>
 
 ## Contact
-- Email: sunghlin [AT] gmail.com
+- Email: [sunghlin [AT] gmail.com](mailto:sunghlin@gmail.com)
 - Linkedin: [Sung-Han Lin@Linkedin](https://www.linkedin.com/in/sung-han-lin-0a47869)
 
 ## Work Experience
