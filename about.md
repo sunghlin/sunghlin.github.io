@@ -31,11 +31,12 @@ titles:
       <img class="image image--md rounded border mr-4" src="/assets/images/sunghan.jpg"/>
     </div>
     <div class="item__content">
-      <div class="article__content" markdown="1">
+      <div class="article__content">
         <p>Sung-Han Lin is a performance analysis engineer and data scientist in NetApp, where his primary responsibility is to analyze and improve the performance of data storage system and software. Currently, he focuses on improving the performance of large-scale Deep Learning systems via investigating the bottleneck of data pipeline and optimizing system resource utilizations. He received his Ph.D. degree from the University of Southern California (USC) in 2017. His thesis topic is optimizing resource allocations in large-scale distributed systems, where one of the applications is improving the throughput of large-scale distributed training.</p>
 
+        <span style="display:block" class="note">
         [Email](mailto:sunghlin@gmail.com){:.button.button--error.button--rounded} [Linkedin](https://www.linkedin.com/in/sung-han-lin-0a47869){:.button.button--success.button--rounded} [Resume](https://sunghlin.github.io/resume/index.pdf){:.button.button--info.button--rounded} 
-
+        </span>
       </div>
     </div>
 </div>
